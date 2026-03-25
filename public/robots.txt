@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin-login
+
+# Sitemaps
+Sitemap: https://cintiamaise.adv.br/sitemap.xml
