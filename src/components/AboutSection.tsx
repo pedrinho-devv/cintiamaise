@@ -50,13 +50,18 @@ const TIMELINE = [
   },
   {
     icon: GraduationCap,
-    title: 'Pós-graduação em Direito Constitucional',
-    description: 'Especialização aprofundada nas garantias fundamentais do cidadão.',
+    title: 'Pós-graduação em Advocacia Trabalhista e Previdenciária – ESA Nacional',
+    description: 'Especialização em advocacia previdenciária e trabalhista pela Escola Superior de Advocacia Nacional.',
   },
   {
     icon: BookOpen,
-    title: 'Pós-graduação em Direito Administrativo',
-    description: 'Atuação eficiente frente ao INSS e demais órgãos públicos.',
+    title: 'MBA em Direito Acidentário',
+    description: 'Formação avançada em direito acidentário e benefícios por incapacidade.',
+  },
+  {
+    icon: GraduationCap,
+    title: 'Pós-graduação em Direito Constitucional e Administrativo',
+    description: 'Especialização aprofundada nas garantias fundamentais do cidadão e atuação frente a órgãos públicos.',
   },
 ];
 
